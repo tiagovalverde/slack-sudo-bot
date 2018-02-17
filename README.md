@@ -3,7 +3,7 @@ A baby slack bot in node.js
 
 ### Setup
 
-In the terminal type `npm install @slack/client –save` to install the Slack SDK
+In the terminal type `npm install @slack/client --save` to install the Slack SDK
 
 Add your Bot token in the index.js file 
 
